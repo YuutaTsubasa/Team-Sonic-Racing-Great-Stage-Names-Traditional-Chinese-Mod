@@ -1,0 +1,7 @@
+# game data, build output and anything derived from the game files: never commit
+out/
+backup/
+work/
+__pycache__/
+*.pyc
+*.stz
